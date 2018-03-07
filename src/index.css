@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: burlywood;
+}
+.form-control {
+  width: 300px;
+  font-style: italic;
+}
